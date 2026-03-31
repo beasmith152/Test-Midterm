@@ -10,7 +10,7 @@ button.addEventListener('click', function() {
 const button2 = document.getElementById('myButton2');
 
 // Add a click event listener
-button.addEventListener('click', function() {
+button2.addEventListener('click', function() {
     // Open the desired URL in a new tab
     window.open('https://www.imdb.com/title/tt0407304/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_war%20of%20the%20worlds', '_blank');
 });
